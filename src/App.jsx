@@ -594,7 +594,7 @@ export default function TableMapper() {
       </div>
 
       <footer className="text-center py-6 text-xs text-gray-600">
-        created by Tabris Yuen @2026
+        Design by Tabris Yuen, 2026
       </footer>
     </div>
   );
